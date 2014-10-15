@@ -1,0 +1,14 @@
+{
+  "name": "gulp-fiddlify",
+  "version": "1.0.0",
+  "description": "Read example dirs, load file contents into json object per dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul den Otter <pauldenotter@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "through2": "^0.6.3"
+  }
+}
